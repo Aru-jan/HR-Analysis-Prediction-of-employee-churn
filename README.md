@@ -1,6 +1,8 @@
 HR Analysis: Prediction of Employee Churn
 By Aru Akbayeva
 
+Data Source: https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data
+
 Overview
 
 This project analyzes a synthetic dataset to identify patterns in employee churn, with the aim of predicting employee resignation. It involves data processing, exploratory analysis, and the development of machine learning models. The dataset is sourced from Kaggle and reflects various aspects of employee demographics, performance, and job satisfaction.
