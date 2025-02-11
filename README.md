@@ -14,6 +14,9 @@ Recently, my friend, a Data Analyst at a tech company with six years of experien
 
 ## Exploratory Data Analysis  
 - Insights and visualizations were created using Tableau.  
+The interactive dashboard consists of visualizations of employee demografics such as gender, age, education and overall performance and job satisfaction scores.
+
+![alt text](<Screenshot 2025-02-11 at 13.06.38.png>)
 
 ## Machine Learning Models to Predict Employee Churn  
 - Various models were tested, including **Logistic Regression, Random Forest, Decision Tree,** and **XGBoost**.  
