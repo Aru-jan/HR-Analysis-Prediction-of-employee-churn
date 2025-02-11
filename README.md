@@ -9,7 +9,9 @@ Recently, my friend, a Data Analyst at a tech company with six years of experien
 - **Development of Machine Learning Models** to predict employee churn  
 
 ## Data Processing  
-- **Data Collection:** The dataset was sourced from Kaggle, stored in SQL Workbench, and processed using Python libraries such as Pandas and NumPy.  
+- **Data Collection:** The dataset was sourced from Kaggle, stored in SQL Workbench, and processed using Python libraries such as Pandas and NumPy. 
+  ![alt text](<Screenshot 2025-02-11 at 13.18.56.png>)
+
 - **Data Cleaning:** Minimal cleaning was required due to the synthetic nature of the data.  
 
 ## Exploratory Data Analysis  
