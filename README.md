@@ -40,7 +40,7 @@ This project highlights that synthetic datasets may lack the depth of real-world
 - Tableau  
 - Machine Learning (Logistic Regression, Decision Tree, Random Forest, XGBoost)  
 
-📌 **Dataset:** [Kaggle (Synthetic Data)](https://www.kaggle.com/)  
+📌 **Dataset:** [Kaggle (Synthetic Data)](https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data)  
 
 🚀 **Future Improvements:**  
 - Collect real-world data for better model performance  
